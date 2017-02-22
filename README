@@ -1,1 +1,4 @@
 Git repository for Aerial Application Board and RadioMux
+
+Aerial Application Board contains the hardware for sensing and processing
+RadioMux contains the hardware for multipling between the radio transmitter and the Aerial Application Board control signals to the servos and speed controller
